@@ -45,4 +45,5 @@ while (select != 'encerrar'):
         divisão(x, y)
     # caso o usuário deseje encerrar o programa
     elif (select == 'encerrar'):
+        print("Tchau tchau !!")
         exit()
